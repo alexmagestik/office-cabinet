@@ -1,0 +1,15 @@
+# Исходные материалы и данные пользователя — не публикуем
+data_input/
+design_reference/
+exports/
+backups/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit / служебные файлы
+.streamlit/secrets.toml
+.DS_Store
